@@ -1,0 +1,6 @@
+--driver-mode=cl
+--target x86\_64-pc-win32
+-fms-compatibility
+-fms-extensions
+-Wno-microsoft-goto
+-I Lib
